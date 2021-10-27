@@ -1,7 +1,7 @@
 
-<div align="center" width="100%">
-<img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alien0s&show_icons=true&theme=algolia&locale=pt-BR&border_radius=4&hide_border=true&layout=compact&langs_count=9" />
-<img height="190rem" src="https://github-readme-stats.vercel.app/api?username=alien0s&layout=compact&show_icons=true&show=contribs,prs&theme=algolia&locale=pt-BR&border_radius=4&hide_border=true&count_private=true" />
+<div width="100%">
+<img height="190rem" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alien0s&show_icons=true&theme=algolia&locale=pt-BR&border_radius=4&hide_border=true&layout=compact&langs_count=9" />
+<img height="190rem" width="49%" src="https://github-readme-stats.vercel.app/api?username=alien0s&layout=compact&show_icons=true&show=contribs,prs&theme=algolia&locale=pt-BR&border_radius=4&hide_border=true&count_private=true" />
 </div>
 
 - 🔭 Atualmente trabalhando com React, Vue ...
