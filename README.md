@@ -1,4 +1,3 @@
-### 👋
 
 <div align="center" width="100%">
 <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alien0s&show_icons=true&theme=algolia&locale=pt-BR&border_radius=4&hide_border=true&layout=compact&langs_count=9" />
